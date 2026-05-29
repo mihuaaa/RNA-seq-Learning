@@ -3,8 +3,8 @@
 
 ## nmTECs，MG 型胸腺瘤中存在一类异常的**髓质胸腺上皮细胞**
 ## 方法
-### public bulk discovery 
-#### single-cell localization 
-#### immune microenvironment analysis 
-#### computational validation 
-#### histological validation
+#### -public bulk discovery 
+#### -single-cell localization 
+#### -immune microenvironment analysis 
+#### -computational validation 
+#### -histological validation
